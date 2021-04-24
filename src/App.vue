@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <v-app>
     <ShoppingList msg="Welcome"/>
-  </div>
+  </v-app>
 </template>
 
 <script>
